@@ -1,6 +1,6 @@
-### Merhabalar ben Yiğit Karakaş/okisijen
-# Mekatronik Mühendisliği Öğrencisi @İGÜ MMF  
-# Mechatronics Engineering Student  @İGÜ MMF
+# Merhabalar ben Yiğit Karakaş/okisijen
+## Mekatronik Mühendisliği Öğrencisi @İGÜ MMF  
+## Mechatronics Engineering Student  @İGÜ MMF
 
 <!--
 **okisijen/okisijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
